@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Add or delete notes</string>
+    <string name="open_activity">Open activity</string>
+    <string name="btn_addnote">Add new note</string>
+    <string name="btn_deletenote">Delete note</string>
+    <string name="type_note">Type note</string>
+</resources>
